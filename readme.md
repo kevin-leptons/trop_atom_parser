@@ -59,7 +59,7 @@ atom_parser.apply(target, schema)
 
 **Output**
 
-* `undefined`   
+* `undefined`
 
 **Exception**
 
