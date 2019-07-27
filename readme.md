@@ -59,13 +59,14 @@ atom_parser.apply(target, schema)
 
 **Output**
 
-* `undefined`
+* `undefined`   
 
-Exception
-* TypeError - Source value is not a string
-* TypeError - Invalid target type
-* TypeError - Invalid number format
-* TypeError - Invalid boolean format
+**Exception**
+
+* `TypeError` - Source value is not a string
+* `TypeError` - Invalid target type
+* `TypeError` - Invalid number format
+* `TypeError` - Invalid boolean format
 
 ## References
 
