@@ -1,6 +1,6 @@
 {
   "name": "@trop/atom_parser",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "parse string to primitive type such as number, boolean",
   "main": "lib/index.js",
   "directories": {
